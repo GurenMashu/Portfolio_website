@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image
-import base64
 from pathlib import Path
 from CSScomponents import local_css, load_fontawesome
 from webpages import *
